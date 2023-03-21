@@ -45,7 +45,7 @@ El resultado devuelvo por la API debe alinearse al siguiente formato ordenado po
 # Solución planteada
 
 ## Arquitectura
-Con el objetivo de crear una arquitectura limpia, escalable y de microservicios se propuso una arquitectura tipo hexagonal; a cotinuación se describe la estrucuta de archivos del proyecto:
+Con el objetivo de crear una arquitectura limpia, escalable y de microservicios se propuso una arquitectura tipo modulos; a cotinuación se describe la estrucuta de archivos del proyecto:
 
 ```
 ├── src
